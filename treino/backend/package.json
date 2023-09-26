@@ -1,0 +1,20 @@
+{
+  "name": "treino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "docker": "^1.0.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "node": "^20.6.0",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.6"
+  }
+}
